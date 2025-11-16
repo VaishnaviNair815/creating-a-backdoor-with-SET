@@ -77,7 +77,8 @@ In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address)
 SET logs the information regarding the Google credentials:
 ## OUTPUT
 
-<img width="1250" height="438" alt="Screenshot 2025-11-13 090229" src="https://github.com/user-attachments/assets/89c244b1-b33d-47a0-84e4-4e75a9b86de3" />
+<img width="1256" height="522" alt="Screenshot 2025-11-13 083632" src="https://github.com/user-attachments/assets/aef99112-4865-4fdb-9fbf-2b85360b1450" />
+
 
 
 SET logs the information in the xml file under /root/.set directory:
